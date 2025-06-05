@@ -10,7 +10,7 @@
 - sklearn algorithm import
 - sklearn evaluation metrics
 
-2. Building and Loading dataset (Pima Indians Diabetes Database)
+2. Building and Loading dataset 
 
 - Read csv
 - Building dataset
